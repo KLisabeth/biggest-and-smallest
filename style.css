@@ -9,3 +9,25 @@
 input {
   text-align: center;
 }
+button {
+  height: 35px;
+  background: #82a8c6;
+  border:none;
+  color: #ffffff;
+  width: 50%;
+  cursor: pointer;
+  font-size: 20px;
+} 
+input[type="number"] {
+  background-color: #b6d0e4;
+  padding: 4px;
+  height: 25px;
+  width: 180px;
+}
+section {
+  background: #205279;
+  color: #ffffff;
+}
+body {
+  background-color: #5581a3;
+}
